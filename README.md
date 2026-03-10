@@ -35,7 +35,7 @@
 ### Тестирование
 
 
-
+![тест](https://github.com/KsiOswald/Lab3/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%BA%20%D0%BB%D0%B0%D0%B13/lab3.1.png)
 
 
 
@@ -72,7 +72,8 @@
 
 
 
-
+![тест](https://github.com/KsiOswald/Lab3/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%BA%20%D0%BB%D0%B0%D0%B13/lab3.2.1.png)
+![тест](https://github.com/KsiOswald/Lab3/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%BA%20%D0%BB%D0%B0%D0%B13/lab3.2.2.png)
 
 ## Задача 3
 
@@ -94,3 +95,5 @@
 
 ###Тестирование
 
+
+![тест](https://github.com/KsiOswald/Lab3/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%BA%20%D0%BB%D0%B0%D0%B13/lab3.3.png)
